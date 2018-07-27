@@ -1,0 +1,39 @@
+#title {
+	margin: auto;
+	text-align: center;
+	text-decoration-style: solid;
+	font-size: 70px;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+	font
+}
+.block1 {
+	width: 630px;
+	height: 630px;
+	display: block;
+	margin: auto;
+	border: 10px solid;
+}
+.block2 {
+	width: 630px;
+	height: 210px;
+	background-color: black;
+}
+.block3 {
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	display: block;
+	float: left;
+	border: 5px solid;
+	text-align: center;
+	font-size: 150px;
+}
+#Final_Result {
+	margin: auto;
+	width: 600px;
+	height: 30px;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
